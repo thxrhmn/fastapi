@@ -8,6 +8,7 @@ pip install -r requirements.txt
 ```
 uvicorn main:app --reload
 ```
+
 ### SWAGGER
 ```
 http://localhost:8000/docs
